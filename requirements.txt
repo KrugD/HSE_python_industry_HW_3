@@ -14,3 +14,6 @@ email_validator==2.2.0
 fastapi-users==14.0.1
 fastapi-users-db-sqlalchemy==7.0.0
 uvicorn
+pytest
+pytest-cov
+locust
